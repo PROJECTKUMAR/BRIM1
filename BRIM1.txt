@@ -1,2 +1,4 @@
 a=b+c;
 x=y+z;
+c=a+b;
+b=a+c;
